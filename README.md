@@ -1,4 +1,4 @@
 # DMLOYFG
-Draw Me Like One of Your French Girls - VR posing system
+VR posing system
+![Untitled](https://user-images.githubusercontent.com/12220915/83972577-d6e5ad00-a8d8-11ea-8c84-238fae827071.jpg)
 
-![Untitled](https://user-images.githubusercontent.com/12220915/83972482-54f58400-a8d8-11ea-8a51-d73e4b8eb22b.jpg)
